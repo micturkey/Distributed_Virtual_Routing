@@ -1,4 +1,4 @@
-# 分布式虚拟路由 - 概览与东、西路由
+# 分布式虚拟路由 - 概述与东、西路由
 > 翻译自[Distributed Virtual Routing – Overview and East/West Routing | Assaf Muller](https://assafmuller.com/2015/04/15/distributed-virtual-routing-overview-and-eastwest-routing/)  
 
 **当前位置**   
