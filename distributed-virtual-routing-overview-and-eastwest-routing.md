@@ -3,7 +3,7 @@
 
 **当前位置**   
 \* 概述与东、西流量  
-SNAT  
+[SNAT](distributed-virtual-routing-snat.md)  
 浮动IP
 
 ## 传统路由
