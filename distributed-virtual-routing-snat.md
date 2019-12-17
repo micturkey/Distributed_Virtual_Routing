@@ -4,7 +4,7 @@
 **当前位置**   
 [概述与东、西流量](distributed-virtual-routing-overview-and-eastwest-routing.md)  
 \* SNAT  
-浮动IP
+[浮动IP](distributed-virtual-routing-floating-ips.md)
 
 ## SNAT与浮动IP
 关于在Neutron中使用的两种NAT模式的快速比较  
